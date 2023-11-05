@@ -7,4 +7,4 @@ document.querySelector("main").querySelectorAll("*").forEach(e => {
   }
 })
 
-某些需要登录甚至付费才能复制的网站，都给我爬开，都2023年了，道德绑架你妈呢
+某些需要登录甚至付费才能复制文本的网站，都给我爬开，都2023年了，道德绑架你妈呢
